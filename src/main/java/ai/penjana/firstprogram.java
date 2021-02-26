@@ -1,0 +1,17 @@
+package ai.penjana;
+
+public class firstprogram {
+    public static void main(String[] args) {
+        System.out.println("first program run successfully");
+    }
+
+    //add two numbers
+    /*
+    asdadasd
+    adsad
+
+    adad
+     */
+
+
+}
